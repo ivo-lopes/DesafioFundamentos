@@ -1,0 +1,15 @@
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.sourcelink.json
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+J:\Programação\Cursos\Decola Tech 2024\2 - Desafios de Código em C#\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll
